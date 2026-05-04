@@ -133,7 +133,7 @@ This scenario is common in:
 ## 👤 Author
 
 **Edward Casanova**
-Service Desk Analyst → IAM Engineer (In Progress)
+Service Desk Analyst/ Desktop Support → IAM Engineer (In Progress)
 
 ---
 
