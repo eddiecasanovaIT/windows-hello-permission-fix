@@ -111,16 +111,6 @@ This scenario is common in:
 
 ---
 
-## 📸 Screenshots (Optional but Recommended)
-
-*Add these to strengthen the project:*
-
-* Access denied error
-* NGC folder permissions before/after
-* Windows Hello settings screen
-
----
-
 ## 💡 Key Takeaways
 
 * Identity data can persist beyond domain removal
